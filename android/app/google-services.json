@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "196821888794",
+    "firebase_url": "https://vintage25.firebaseio.com",
+    "project_id": "vintage25",
+    "storage_bucket": "vintage25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196821888794:android:c607aff4de12058cacc6a3",
+        "android_client_info": {
+          "package_name": "com.example.discord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196821888794-346sufoh4h1dkioe4so58u485v7o8ar9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa5Znjzuhi2c0wFuuzQxlsWOVlM0nt11U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196821888794-346sufoh4h1dkioe4so58u485v7o8ar9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
